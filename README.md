@@ -10,6 +10,9 @@ A food recommendation engine based on selected items
 
 # ______ HOW TO RUN A FLUTTER APPLICATION ______
 
+Download the zip file available with the name foodiereco. Which is a zip file contains flutter source code
+required for project.
+
 #### FLUTTER ONLINE IDE ####
 
 To open an existing Flutter project:
