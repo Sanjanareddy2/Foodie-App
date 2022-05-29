@@ -35,6 +35,7 @@ To open an existing Flutter project:
 2.Browse to the directory holding your existing Flutter source code files.
 3.Click Open.
 
+==> wait for 5 sec to get updated recommendations. If recommendations are ont updating please click for second time and check.
 
 # ______ ABOUT PROJECT ______
 
